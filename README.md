@@ -1,4 +1,4 @@
-# GMS: Graph Matching System
+# IGM: (Image to) Graph Matching System
 We will release the code after the paper is accepted!
 
 ---
