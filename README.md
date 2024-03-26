@@ -1,4 +1,4 @@
-# IGM: (Image to) Graph Matching System
+# GIM: Graph-based Image Matching
 We will release the code after the paper is accepted!
 
 ---
