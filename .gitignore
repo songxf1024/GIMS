@@ -1,0 +1,10 @@
+.idea
+dump
+assets
+output
+results
+weights
+datasets
+mydatasets
+carhynet/__pycache__
+models/__pycache__
