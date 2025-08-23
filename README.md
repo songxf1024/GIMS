@@ -163,9 +163,20 @@ Loaded GMatcher model ("./weights/gims_minloss_L.pt" weights)
 
 
 ## License
-Copyright (c) 2025 xxx. All rights reserved.  
+Copyright (c) 2025 Song Xianfeng. All rights reserved.  
 Licensed under the MIT License.
 
 ## Star History
-
 [![Star History Chart](https://api.star-history.com/svg?repos=songxf1024/GIMS&type=Date)](https://www.star-history.com/#songxf1024/GIMS&Date)
+
+---
+
+If you use this repository in your work, please cite our paper:
+```bash
+@article{song2024gims,
+  title={GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network},
+  author={Song, Xianfeng and Zou, Yi and Shi, Zheng and Liu, Zheng},
+  journal={arXiv preprint arXiv:2412.18221},
+  year={2024}
+}
+```
