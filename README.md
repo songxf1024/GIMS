@@ -173,10 +173,14 @@ Licensed under the MIT License.
 
 If you use this repository in your work, please cite our paper:
 ```bash
-@article{song2024gims,
-  title={GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network},
-  author={Song, Xianfeng and Zou, Yi and Shi, Zheng and Liu, Zheng},
-  journal={arXiv preprint arXiv:2412.18221},
-  year={2024}
+@article{SONG2025108030,
+title = {GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network},
+journal = {Neural Networks},
+pages = {108030},
+year = {2025},
+issn = {0893-6080},
+doi = {https://doi.org/10.1016/j.neunet.2025.108030},
+url = {https://www.sciencedirect.com/science/article/pii/S0893608025009104},
+author = {Xianfeng Song and Yi Zou and Zheng Shi and Zheng Liu},
 }
 ```
