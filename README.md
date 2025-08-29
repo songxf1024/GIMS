@@ -1,7 +1,6 @@
 # Image Matching System Based on Adaptive Graph Construction and Graph Neural Network
 
----
-    
+<div align="center"><img src="https://github.com/songxf1024/GIMS/blob/main/assets/cover.png?raw=true"/></div>   
 
 ## Directory Structure
 Below is a brief overview of the directory structure and the role of each component:
