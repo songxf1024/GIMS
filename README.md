@@ -2,6 +2,9 @@
 
 <div align="center"><img src="https://github.com/songxf1024/GIMS/blob/main/assets/cover.png?raw=true"/></div>   
 
+## News
+- [x] GIMS is now available on Hugging Face Spaces! You can try the core features online: https://huggingface.co/spaces/songxf1024/GIMS.
+
 ## Directory Structure
 Below is a brief overview of the directory structure and the role of each component:
 ```bash
