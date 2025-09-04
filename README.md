@@ -163,6 +163,33 @@ Loaded GMatcher model ("./weights/gims_minloss_L.pt" weights)
 5392/15382
 ```
 
+## Use API
+```bash
+pip install gradio_client
+```
+
+```bash
+from gradio_client import Client, handle_file
+
+client = Client("songxf1024/GIMS")
+result = client.predict(
+    image0=handle_file('https://raw.githubusercontent.com/gradio-app/gradio/main/test/test_files/bus.png'),
+    image1=handle_file('https://raw.githubusercontent.com/gradio-app/gradio/main/test/test_files/bus.png'),
+    resize_enabled=True,
+    api_name="/find_matches"
+)
+print(result)
+```
+
+> Accepts 3 parameters:
+> - image0: path or url.
+> - image1: path or url.
+> - resize_enabled: bool, Default: True.
+>   
+> Returns tuple of 2 elements:
+> - [0] the visualization of matching image.
+> - [1] details of the matching results.
+
 
 ## License
 Copyright (c) 2025 Song Xianfeng. All rights reserved.  
